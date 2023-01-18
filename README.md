@@ -1,0 +1,2 @@
+# Translation.ini
+Chinese Translation
