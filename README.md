@@ -11,7 +11,7 @@
 
 使用说明：
 ---------
-您只需将本仓库提供的`Translation.ini`，放入到对应客户端的`Resources\zh`文件夹下，重启客户端即可
+您只需将本仓库提供的`Translation.ini`，放入到对应客户端的`Resources/Translations/zh`文件夹下，重启客户端即可
 您也可以针对某一主题单独进行翻译，并且当主题中有翻译文件时，其优先级更高
 更多翻译信息可考参考 [CNCNet客户端翻译结构说明](https://github.com/KuroNoSeiHai/xna-cncnet-client/blob/develop/Docs/Translation.md)
 
